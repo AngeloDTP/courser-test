@@ -1,0 +1,38 @@
+*{
+  box-sizing:border-box;
+}
+#cabecera {
+  background-color: lightsalmon;
+  color: blue ;
+  margin: o;
+  padding: 0.5em;
+  font-size: 180%;
+  font-weight: bold;
+  box-shadow: 25px 25px 70px 15px black;
+}
+#tagline {
+padding: 0 0 0 1em;
+font-weight: normal ;
+font-size: 0.8em ;
+}
+div {
+  background-color: #00FFFF;
+}
+p {
+  width: 50%;
+  border: 1px solid black;
+  float: left;
+  padding: 10px ;
+}
+
+#p1 {
+  background-color: #A52A2A;
+}
+#p2 {
+  background-color: #DEB887;
+}
+
+section {
+  clear: left;
+}
+
